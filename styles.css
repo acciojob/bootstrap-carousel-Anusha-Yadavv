@@ -1,1 +1,5 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+.carousel-control-next {
+    width: 50px; /* Adjust this value based on your design */
+    height: 50px; /* Adjust this value based on your design */
+}
