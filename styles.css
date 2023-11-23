@@ -1,1 +1,6 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+.carousel-control-next {
+    /* Add styles like width and height to make it visible */
+    width: 50px;
+    height: 50px;
+}
